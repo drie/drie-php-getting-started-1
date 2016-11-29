@@ -16,6 +16,8 @@ or
 
 [Deploy to drie](http://master.kwrorj.app.push.drieapp.co/deploy)
 
+[Deploy to digital ocean](http://45.55.195.108:9999/deploy)
+
 ## Documentation
 
 For more information about using PHP on drie:
