@@ -14,7 +14,7 @@ $ git push drie
 
 or
 
-[Deploy to drie](http://master.kwrorj.app.push.drieapp.co/deploy?git_repo_url=https://github.com/mraym/drie-php-getting-started.git)
+[Deploy to drie](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/mraym/drie-php-getting-started.git)
 
 ## Documentation
 
