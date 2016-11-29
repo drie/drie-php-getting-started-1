@@ -12,6 +12,10 @@ $ git remote add drie your-app-name@push.drieapp.co:app.git
 $ git push drie master
 ```
 
+or
+
+[Deploy to drie](http://master.kwrorj.app.push.drieapp.co/deploy)
+
 ## Documentation
 
 For more information about using PHP on drie:
