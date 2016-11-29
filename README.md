@@ -14,9 +14,7 @@ $ git push drie
 
 or
 
-[Deploy to drie](http://master.kwrorj.app.push.drieapp.co/deploy)
-
-[Deploy to digital ocean](http://45.55.195.108:9999/deploy)
+[Deploy to drie](http://master.kwrorj.app.push.drieapp.co/deploy?git_repo_url=https://github.com/mraym/drie-php-getting-started.git)
 
 ## Documentation
 
