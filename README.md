@@ -16,7 +16,7 @@ or
 
 [Deploy to drie](http://master.drie-deployer.app.push.drieapp.co/deploy?git_repo_url=https://github.com/mraym/drie-php-getting-started.git)
 
-[Test](http://master.tom-free-kite-swift.app.push.drieapp.co/)
+[Test](https://nvqxg5dfoixhi33nfvthezlffvvws5dffvzxo2lgoq.app.spush.drieapp.co/)
 
 ## Documentation
 
